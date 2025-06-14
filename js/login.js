@@ -4,7 +4,7 @@ function loginUser() {
 
     // Simple hardcoded credentials
     const validUsername = "user1";
-    const validPassword = "123";
+    const validPassword = "2025";
 
     if (username.length < 50 && password === validPassword) {
         // Store login status
