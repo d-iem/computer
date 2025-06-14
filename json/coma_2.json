@@ -1,0 +1,352 @@
+[
+    {
+        "question": "পাইথনে complex সংখ্যার প্রকৃত ও কাল্পনিক অংশে কী ধরনের ডেটা টাইপ ব্যবহৃত হয়? (In Python, what data types are used for the real and imaginary parts of a complex number?)",
+        "options": [
+            "integer ও integer",
+            "integer ও float",
+            "float ও float",
+            "float ও complex"
+        ],
+        "answer": "float ও float"
+    },
+    {
+        "question": "নিম্নলিখিত কোনটি Python এ sequence টাইপ নয়? (Which of the following is NOT a sequence type in Python?)",
+        "options": [
+            "list",
+            "tuple",
+            "string",
+            "dictionary"
+        ],
+        "answer": "dictionary"
+    },
+    {
+        "question": "পাইথনে একটি ভেরিয়েবলের ধরন (type) runtime এ কীভাবে নির্ধারিত হয়? (How is the type of a variable determined in Python?)",
+        "options": [
+            "Static typing",
+            "By compiler",
+            "Dynamic typing",
+            "Manual declaration"
+        ],
+        "answer": "Dynamic typing"
+    },
+    {
+        "question": "Python এ id() ফাংশনের মাধ্যমে কী বোঝা যায়? (What does the id() function in Python represent?)",
+        "options": [
+            "Object এর নাম",
+            "Object এর মেমোরি ঠিকানা",
+            "Object এর টাইপ",
+            "Object এর value"
+        ],
+        "answer": "Object এর মেমোরি ঠিকানা"
+    },
+    {
+        "question": "mutable ও immutable টাইপের মধ্যে পার্থক্য কোথায়? (What is the key difference between mutable and immutable types?)",
+        "options": [
+            "mutable টাইপের মান পরিবর্তন করা যায় না",
+            "immutable টাইপের মান পরিবর্তন করা যায়",
+            "mutable টাইপ পরিবর্তনশীল এবং immutable অপরিবর্তনশীল",
+            "mutable টাইপে শুধুমাত্র string সংরক্ষিত হয়"
+        ],
+        "answer": "mutable টাইপ পরিবর্তনশীল এবং immutable অপরিবর্তনশীল"
+    },
+    {
+        "question": "list এবং tuple এর মধ্যে পার্থক্য কী? (What is the difference between a list and a tuple?)",
+        "options": [
+            "list immutable আর tuple mutable",
+            "list mutable আর tuple immutable",
+            "দুটোই mutable",
+            "দুটোই immutable"
+        ],
+        "answer": "list mutable আর tuple immutable"
+    },
+    {
+        "question": "Python এ None ডেটা টাইপটি কী নির্দেশ করে? (What does the None data type indicate in Python?)",
+        "options": [
+            "False value",
+            "Integer value",
+            "No value or null value",
+            "Zero"
+        ],
+        "answer": "No value or null value"
+    },
+    {
+        "question": "Python এ dictionary কি ধরণের ডেটা টাইপ? (What type of data structure is a dictionary in Python?)",
+        "options": [
+            "Sequence",
+            "Mapping",
+            "Set",
+            "Tuple"
+        ],
+        "answer": "Mapping"
+    },
+    {
+        "question": "Boolean টাইপের ভ্যালু কয়টি ও কী কী? (How many and what values does the Boolean type have?)",
+        "options": [
+            "১টি: True",
+            "২টি: True ও False",
+            "৩টি: True, False, None",
+            "অসীমসংখ্যক: যেকোন মান"
+        ],
+        "answer": "২টি: True ও False"
+    },
+    {
+        "question": "Python এ '123' string কে integer এ রূপান্তর করার জন্য কোন ফাংশন ব্যবহৃত হয়? (Which function is used to convert '123' string to integer in Python?)",
+        "options": [
+            "float()",
+            "int()",
+            "str()",
+            "bool()"
+        ],
+        "answer": "int()"
+    },
+    {
+        "question": "list = [1, 2, [3, 4]] — list টি কি ধরনের ডেটা টাইপ ধারণ করে? (What type of data structure is represented by this list?)",
+        "options": [
+            "Flat list",
+            "Nested list",
+            "Tuple inside list",
+            "Immutable list"
+        ],
+        "answer": "Nested list"
+    },
+    {
+        "question": "tuple এর indexable বৈশিষ্ট্যটি কিসের ইঙ্গিত দেয়? (What does the indexable feature of a tuple imply?)",
+        "options": [
+            "এটি পরিবর্তনযোগ্য",
+            "এটিকে slice করা যায় না",
+            "এটি ordered",
+            "এটি unordered"
+        ],
+        "answer": "এটি ordered"
+    },
+    {
+        "question": "Python এ কোন ফাংশনটি একটি string কে list এ রূপান্তর করে? (Which function converts a string to a list in Python?)",
+        "options": [
+            "split()",
+            "join()",
+            "map()",
+            "int()"
+        ],
+        "answer": "split()"
+    },
+    {
+        "question": "int, float, complex — এই ডেটা টাইপগুলোর মধ্যে কোনটি imaginary অংশ রাখে? (Which of these data types can store imaginary parts?)",
+        "options": [
+            "int",
+            "float",
+            "complex",
+            "None"
+        ],
+        "answer": "complex"
+    },
+    {
+        "question": "Python এ একটি dictionary তে key কী ধরনের হতে পারে? (What types can dictionary keys be in Python?)",
+        "options": [
+            "mutable type only",
+            "immutable type only",
+            "list only",
+            "Any type"
+        ],
+        "answer": "immutable type only"
+    },
+    {
+        "question": "Python এ set একটি কেমন ধরনের ডেটা টাইপ? (What kind of data type is a set in Python?)",
+        "options": [
+            "Sequence",
+            "Mutable unordered collection",
+            "Immutable mapping",
+            "Ordered tuple"
+        ],
+        "answer": "Mutable unordered collection"
+    },
+    {
+        "question": "float('NaN') রিটার্ন করে — (What does float('NaN') return?)",
+        "options": [
+            "None",
+            "Infinity",
+            "NaN (Not a Number)",
+            "Error"
+        ],
+        "answer": "NaN (Not a Number)"
+    },
+    {
+        "question": "Python এ slicing কি শুধুমাত্র list এর জন্য প্রযোজ্য? (Is slicing applicable only to lists in Python?)",
+        "options": [
+            "হ্যাঁ",
+            "না, string ও tuple এর জন্যও প্রযোজ্য",
+            "শুধুমাত্র dictionary এর জন্য",
+            "শুধুমাত্র set এর জন্য"
+        ],
+        "answer": "না, string ও tuple এর জন্যও প্রযোজ্য"
+    },
+    {
+        "question": "Python এ একটি immutable object এর উদাহরণ হলো — (Which is an example of an immutable object in Python?)",
+        "options": [
+            "list",
+            "dictionary",
+            "tuple",
+            "set"
+        ],
+        "answer": "tuple"
+    },
+    {
+        "question": "bool(0), bool([]), bool('') এর মান কী হবে? (What will be the value of bool(0), bool([]), bool('')?)",
+        "options": [
+            "True, True, True",
+            "False, False, False",
+            "True, False, False",
+            "False, True, False"
+        ],
+        "answer": "False, False, False"
+    },
+    {
+        "question": "Python এ + অপারেটর দিয়ে কোন কোন টাইপ কনক্যাট করা যায়? (Which types can be concatenated using + operator in Python?)",
+        "options": [
+            "string, list, tuple",
+            "list, dict, string",
+            "string, int, float",
+            "list, float, dict"
+        ],
+        "answer": "string, list, tuple"
+    },
+    {
+        "question": "dictionary.update() ফাংশন কী করে? (What does dictionary.update() do?)",
+        "options": [
+            "dictionary খালি করে",
+            "নতুন key-value জোড়া যোগ করে বা পুরাতন আপডেট করে",
+            "dictionary delete করে",
+            "dictionary sort করে"
+        ],
+        "answer": "নতুন key-value জোড়া যোগ করে বা পুরাতন আপডেট করে"
+    },
+    {
+        "question": "type(None) এর আউটপুট কী? (What is the output of type(None)?)",
+        "options": [
+            "str",
+            "bool",
+            "NoneType",
+            "void"
+        ],
+        "answer": "NoneType"
+    },
+    {
+        "question": "Python এ bool('False') এর মান কী? (What is the value of bool('False') in Python?)",
+        "options": [
+            "False",
+            "True",
+            "None",
+            "Error"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "Python এ string immutable, এর মানে কী? (What does it mean that strings are immutable in Python?)",
+        "options": [
+            "তাদের মান পরিবর্তন করা যায়",
+            "তাদের index পরিবর্তন করা যায়",
+            "তাদের modify করা যায় না",
+            "তারা mutable object"
+        ],
+        "answer": "তাদের modify করা যায় না"
+    },
+    {
+        "question": "Python এ complex(3,4).real রিটার্ন করে — (What does complex(3,4).real return?)",
+        "options": [
+            "3",
+            "4",
+            "3+4j",
+            "Error"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Python এ একটি list কে shallow copy করার জন্য কোন পদ্ধতি ব্যবহার করা হয়? (Which method is used for a shallow copy of a list?)",
+        "options": [
+            "list.copy()",
+            "deepcopy(list)",
+            "clone(list)",
+            "list()"
+        ],
+        "answer": "list.copy()"
+    },
+    {
+        "question": "Python এ tuple এর element পরিবর্তন করলে কী হয়? (What happens if you try to change a tuple's element?)",
+        "options": [
+            "Change সফল হয়",
+            "Error রিটার্ন করে",
+            "Automatically list হয়ে যায়",
+            "None রিটার্ন করে"
+        ],
+        "answer": "Error রিটার্ন করে"
+    },
+    {
+        "question": "list কে tuple এ রূপান্তর করতে কোন ফাংশন ব্যবহার হয়? (Which function is used to convert a list to a tuple?)",
+        "options": [
+            "list()",
+            "tuple()",
+            "dict()",
+            "set()"
+        ],
+        "answer": "tuple()"
+    },
+    {
+        "question": "Python এ একটি dictionary এর সব key পাওয়ার জন্য কোন method ব্যবহৃত হয়? (Which method returns all keys of a dictionary in Python?)",
+        "options": [
+            "dict.keys()",
+            "dict.values()",
+            "dict.items()",
+            "dict.get()"
+        ],
+        "answer": "dict.keys()"
+    },
+    {
+        "question": "Python এ id(a)==id(b) কখন সত্য হয়? (When is id(a)==id(b) true in Python?)",
+        "options": [
+            "যদি তারা একই ভ্যালু ধারণ করে",
+            "যদি তারা একই object নির্দেশ করে",
+            "যদি তারা একে অপরের type হয়",
+            "সব ক্ষেত্রেই"
+        ],
+        "answer": "যদি তারা একই object নির্দেশ করে"
+    },
+    {
+        "question": "Python এ কোন অপারেশনটি immutable ডেটা টাইপে support করে না? (Which operation is not supported on immutable data types?)",
+        "options": [
+            "Concatenation",
+            "Indexing",
+            "Assignment",
+            "Slicing"
+        ],
+        "answer": "Assignment"
+    },  
+  {
+        "question": "Python এ কোন sequence টাইপটি hashable নয়? (Which sequence type in Python is NOT hashable?)",
+        "options": [
+            "string",
+            "tuple",
+            "list",
+            "frozenset"
+        ],
+        "answer": "list"
+    },
+    {
+        "question": "Python এ float('inf') মানে কী? (What does float('inf') mean in Python?)",
+        "options": [
+            "Negative infinity",
+            "Positive infinity",
+            "NaN",
+            "Zero"
+        ],
+        "answer": "Positive infinity"
+    },
+    {
+        "question": "Python এ কোন টাইপটি mutable নয় কিন্তু ordered? (Which data type in Python is immutable but ordered?)",
+        "options": [
+            "list",
+            "tuple",
+            "set",
+            "dictionary"
+        ],
+        "answer": "tuple"
+    }
+]
