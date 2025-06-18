@@ -1,0 +1,352 @@
+[
+  {
+    "question": "নিম্নলিখিত কোডটির আউটপুট কী হবে? `print(4 + 3 * 2)` (What will be the output of the code?)",
+    "options": [
+      "14",
+      "10",
+      "11",
+      "16"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "`x = 5; y = 5.0; print(x is y)` এর ফলাফল কী হবে? (What will be the result of this expression?)",
+    "options": [
+      "True",
+      "False",
+      "Error",
+      "None"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "`a = [1, 2]; b = a; print(a is b)` – এই কোডের ফলাফল কী? (What is the output of this code?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "SyntaxError"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "`x = 3; x **= 2` – এখন x-এর মান কত? (What is the value of x now?)",
+    "options": [
+      "6",
+      "9",
+      "8",
+      "12"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "নিম্নলিখিত কোনটি logical operator নয়? (Which one is NOT a logical operator?)",
+    "options": [
+      "and",
+      "not",
+      "is",
+      "or"
+    ],
+    "answer": "is"
+  },
+  {
+    "question": "`5 != 5.0` এর মান কী? (What is the value of this relational expression?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "`'a' in 'apple'` – এই expression এর আউটপুট কী হবে? (What will be the output of this expression?)",
+    "options": [
+      "True",
+      "False",
+      "'a'",
+      "'apple'"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "`x = 10; x %= 3` – x এর মান কত হবে? (What will be the value of x?)",
+    "options": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "`not (True and False)` – এর আউটপুট কী? (What is the output of this?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "কোনটি identity operator? (Which one is an identity operator?)",
+    "options": [
+      "!=",
+      "==",
+      "in",
+      "is not"
+    ],
+    "answer": "is not"
+  },
+  {
+    "question": "`x = 2; y = 3; print(x ** y)` – আউটপুট কী? (What will be the output?)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "5"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "নিচের কোনটি membership operator? (Which of the following is a membership operator?)",
+    "options": [
+      "is",
+      "==",
+      "in",
+      "and"
+    ],
+    "answer": "in"
+  },
+  {
+    "question": "`True or False and False` – এর মান কত? (What is the value of this expression?)",
+    "options": [
+      "True",
+      "False",
+      "SyntaxError",
+      "None"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "x = 4; x += 3 * 2 – x-এর মান হবে: (What will be the value of x?)",
+    "options": [
+      "10",
+      "14",
+      "6",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "‘is’ এবং ‘==’ এর মধ্যে পার্থক্য কী? (What is the difference between 'is' and '==')",
+    "options": [
+      "'is' মান তুলনা করে, '==' location",
+      "'==' মান তুলনা করে, 'is' object identity",
+      "উভয়ই এক",
+      "কোনোটিই পার্থক্য করে না"
+    ],
+    "answer": "'==' মান তুলনা করে, 'is' object identity"
+  },
+  {
+    "question": "`[1, 2] is [1, 2]` – এর ফলাফল কী? (What is the result?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "SyntaxError"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "`x = 7; y = 2; print(x // y)` – আউটপুট কী? (What is the output?)",
+    "options": [
+      "3.5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "`not (False or False)` এর মান কী? (What is the value of this?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "`x = [1,2]; y = [1,2]; x == y` এর মান কী? (What is the result of this comparison?)",
+    "options": [
+      "True",
+      "False",
+      "Error",
+      "None"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "`x = [1,2]; y = [1,2]; x is y` এর মান কী? (What is the value of this identity comparison?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "`x = 3; y = 3; print(x is y)` – এই কোডের আউটপুট কী? (What will be the output of this code?)",
+    "options": [
+      "True",
+      "False",
+      "Error",
+      "None"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "নিচের কোনটি augmented assignment operator? (Which of the following is an augmented assignment operator?)",
+    "options": [
+      "=",
+      "+=",
+      "==",
+      "!="
+    ],
+    "answer": "+="
+  },
+  {
+    "question": "`x = 5; y = 2; print(x % y)` – আউটপুট কী? (What is the output?)",
+    "options": [
+      "2.5",
+      "1",
+      "3",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "`'x' not in 'exam'` – এর ফলাফল কী? (What is the result?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "`a = 10; b = 20; print(a < b and b < 30)` – এর আউটপুট কী হবে? (What is the output?)",
+    "options": [
+      "True",
+      "False",
+      "SyntaxError",
+      "None"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "‘or’ এবং ‘and’ এর মধ্যে পার্থক্য কী? (What is the difference between 'or' and 'and'?)",
+    "options": [
+      "'or' উভয়ের সত্য হলে True",
+      "'and' যেকোনো একটি সত্য হলে True",
+      "'or' যেকোনো একটি সত্য হলে True",
+      "উভয়ই একইভাবে কাজ করে"
+    ],
+    "answer": "'or' যেকোনো একটি সত্য হলে True"
+  },
+  {
+    "question": "`True and not False or False` – এর আউটপুট কী? (What is the output?)",
+    "options": [
+      "True",
+      "False",
+      "SyntaxError",
+      "None"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "`x = 5; x = x + 1` – এর সমতুল্য কোনটি? (Which is equivalent to this?)",
+    "options": [
+      "x += 1",
+      "x =+ 1",
+      "x = x++",
+      "x = 1 + x +"
+    ],
+    "answer": "x += 1"
+  },
+  {
+    "question": "`5 * 2 + 3` – এর আউটপুট কী হবে? (What is the output of the expression?)",
+    "options": [
+      "13",
+      "16",
+      "11",
+      "10"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "`'p' in 'python'` – এর ফলাফল কী? (What is the result?)",
+    "options": [
+      "True",
+      "False",
+      "'p'",
+      "SyntaxError"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "`x = 7; y = 2; print(x / y)` – এর আউটপুট কী হবে? (What will be the output?)",
+    "options": [
+      "3.5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "3.5"
+  },
+  {
+    "question": "নিচের কোনটি একটি relational operator? (Which of the following is a relational operator?)",
+    "options": [
+      "!=",
+      "and",
+      "is",
+      "not"
+    ],
+    "answer": "!="
+  },
+  {
+    "question": "`x = 4; y = 4; print(x is not y)` – এর আউটপুট কী হবে? (What will be the output?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "SyntaxError"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "`x = 2; x *= 3 + 4` – x-এর মান হবে: (What is the value of x?)",
+    "options": [
+      "14",
+      "10",
+      "16",
+      "Error"
+    ],
+    "answer": "14"
+  },
+  {
+    "question": "`not (True and not True)` – এর আউটপুট কী? (What is the output?)",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "answer": "True"
+  }
+]
