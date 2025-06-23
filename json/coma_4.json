@@ -1,0 +1,352 @@
+[
+  {
+    "question": "নিচের কোনটি সর্বোচ্চ প্রাধান্যসম্পন্ন অপারেটর? (Which of the following has the highest precedence?)",
+    "options": [
+      "** (Exponentiation) শক্তি অপারেটর",
+      "- (Unary Minus) ঋণাত্মক চিহ্ন",
+      "% (Modulus) ভাগশেষ",
+      "== (Equality) সমতা"
+    ],
+    "answer": "** (Exponentiation) শক্তি অপারেটর"
+  },
+  {
+    "question": "নিচের কোন অভিব্যক্তিটি প্রথমে মূল্যায়িত হবে? (Which part of the expression is evaluated first?)\n3 + 4 * 2 ** 3",
+    "options": [
+      "4 * 2",
+      "2 ** 3",
+      "3 + 4",
+      "3 + (4 * 2)"
+    ],
+    "answer": "2 ** 3"
+  },
+  {
+    "question": "int(3.9) এর মান কী হবে? (What will be the output of int(3.9)?)",
+    "options": [
+      "3",
+      "4",
+      "3.9",
+      "Error (ত্রুটি)"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "print(5 + 3.0) এর আউটপুট কী হবে? (What will be the output of print(5 + 3.0)?)",
+    "options": [
+      "8.0",
+      "8",
+      "Error",
+      "'53.0'"
+    ],
+    "answer": "8.0"
+  },
+  {
+    "question": "int('10.5') কমান্ডে কী হবে? (What happens when int('10.5') is executed?)",
+    "options": [
+      "10",
+      "Error (ValueError)",
+      "10.5",
+      "0"
+    ],
+    "answer": "Error (ValueError)"
+  },
+  {
+    "question": "float('5') কমান্ডের আউটপুট কী? (What is the output of float('5')?)",
+    "options": [
+      "5.0",
+      "'5.0'",
+      "Error",
+      "5"
+    ],
+    "answer": "5.0"
+  },
+  {
+    "question": "type(10/2) কমান্ডে কোন টাইপ রিটার্ন হবে? (What type will type(10/2) return?)",
+    "options": [
+      "class 'int'",
+      "class 'float'",
+      "class 'str'",
+      "SyntaxError"
+    ],
+    "answer": "class 'float'"
+  },
+  {
+    "question": "input() ফাংশন দ্বারা গ্রহণকৃত ইনপুটের টাইপ কী হয়? (What is the type of input taken by input() function?)",
+    "options": [
+      "int",
+      "float",
+      "str",
+      "bool"
+    ],
+    "answer": "str"
+  },
+  {
+    "question": "float(True) এর আউটপুট কী হবে? (What will float(True) return?)",
+    "options": [
+      "1.0",
+      "True",
+      "Error",
+      "0.0"
+    ],
+    "answer": "1.0"
+  },
+  {
+    "question": "print(2 + 3 * 4 / 2 ** 2) এর মান কত? (Evaluate: print(2 + 3 * 4 / 2 ** 2))",
+    "options": [
+      "8.0",
+      "6.0",
+      "5.0",
+      "7.0"
+    ],
+    "answer": "5.0"
+  },
+  {
+    "question": "int(float('3.99')) এর আউটপুট কী? (What is output of int(float('3.99'))?)",
+    "options": [
+      "3",
+      "4",
+      "3.99",
+      "Error"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "'10' + 5 দিলে কী হবে? (What happens when '10' + 5 is executed?)",
+    "options": [
+      "'105'",
+      "15",
+      "Error",
+      "'15'"
+    ],
+    "answer": "Error"
+  },
+  {
+    "question": "print(bool('False')) এর আউটপুট কী? (What is the output of print(bool('False'))?)",
+    "options": [
+      "False",
+      "True",
+      "Error",
+      "None"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "নিচের কোনটি টাইপ কনভার্সনের একটি বৈধ উদাহরণ? (Which is a valid example of type conversion?)",
+    "options": [
+      "str(10.5)",
+      "int('hello')",
+      "float('abc')",
+      "int(True.0)"
+    ],
+    "answer": "str(10.5)"
+  },
+  {
+    "question": "print(3 > 2 > 1) এর ফলাফল কী? (What is the result of print(3 > 2 > 1)?)",
+    "options": [
+      "True",
+      "False",
+      "Error",
+      "None"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "input() দ্বারা 10 ইনপুট দিলে টাইপ কী হবে? (If user enters 10 through input(), what will be its type?)",
+    "options": [
+      "int",
+      "float",
+      "str",
+      "bool"
+    ],
+    "answer": "str"
+  },
+  {
+    "question": "float('inf') এর মান কী? (What is the value of float('inf')?)",
+    "options": [
+      "Infinity",
+      "Error",
+      "0",
+      "None"
+    ],
+    "answer": "Infinity"
+  },
+  {
+    "question": "print(1 + 2 * 3 ** 2) এর মান কত? (Evaluate print(1 + 2 * 3 ** 2))",
+    "options": [
+      "19",
+      "21",
+      "25",
+      "18"
+    ],
+    "answer": "19"
+  },
+  {
+    "question": "int(True) + int(False) এর আউটপুট কী? (What is output of int(True) + int(False)?)",
+    "options": [
+      "1",
+      "0",
+      "True",
+      "Error"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "print(2 + 3 * 4 // 2 - 1) এর মান কত? (Evaluate print(2 + 3 * 4 // 2 - 1))",
+    "options": [
+      "7",
+      "6",
+      "9",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "str(3.14) + str(2) এর আউটপুট কী? (What is output of str(3.14) + str(2)?)",
+    "options": [
+      "'3.142'",
+      "'5.14'",
+      "5.14",
+      "Error"
+    ],
+    "answer": "'3.142'"
+  },
+  {
+    "question": "print(5 and 0) এর আউটপুট কী? (What is output of print(5 and 0)?)",
+    "options": [
+      "0",
+      "5",
+      "True",
+      "False"
+    ],
+    "answer": "0"
+  },
+  {
+    "question": "print(0 or 3) এর মান কত? (Evaluate print(0 or 3))",
+    "options": [
+      "3",
+      "0",
+      "True",
+      "False"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "int('0b1010', 2) এর আউটপুট কী? (What is output of int('0b1010', 2)?)",
+    "options": [
+      "10",
+      "1010",
+      "Error",
+      "2"
+    ],
+    "answer": "10"
+  },
+  {
+    "question": "eval('2 + 3') এর আউটপুট কী? (What is the output of eval('2 + 3')?)",
+    "options": [
+      "5",
+      "'5'",
+      "Error",
+      "None"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "print(10 / 0) দিলে কী হবে? (What happens when print(10 / 0) is executed?)",
+    "options": [
+      "ZeroDivisionError",
+      "0",
+      "Infinity",
+      "Error: Syntax"
+    ],
+    "answer": "ZeroDivisionError"
+  },
+  {
+    "question": "bool(0) এর আউটপুট কী? (What is output of bool(0)?)",
+    "options": [
+      "False",
+      "True",
+      "0",
+      "1"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "print('5' * 3) এর আউটপুট কী? (What will print('5' * 3) return?)",
+    "options": [
+      "'555'",
+      "15",
+      "'15'",
+      "Error"
+    ],
+    "answer": "'555'"
+  },
+  {
+    "question": "int('101', 2) এর আউটপুট কী? (What is the output of int('101', 2)?)",
+    "options": [
+      "5",
+      "101",
+      "Error",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "input() দ্বারা ইনপুট নেওয়ার পর মানকে পূর্ণসংখ্যায় কনভার্ট করতে কোনটি ব্যবহার হয়? (Which function is used to convert input to integer?)",
+    "options": [
+      "int()",
+      "str()",
+      "eval()",
+      "bool()"
+    ],
+    "answer": "int()"
+  },
+  {
+    "question": "print(4 // 2 * 3) এর আউটপুট কী হবে? (What is output of print(4 // 2 * 3)?)",
+    "options": [
+      "6",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "int(float('2.99')) + int('3') এর আউটপুট কত? (Evaluate int(float('2.99')) + int('3'))",
+    "options": [
+      "5",
+      "6",
+      "Error",
+      "2.99"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "নিচের কোনটি সঠিক ইনপুট-আউটপুট কোড? (Which of the following is a correct I/O code?)",
+    "options": [
+      "x = int(input('Enter: '))",
+      "x = input(int('Enter'))",
+      "x = str(input(5))",
+      "x = input() + 10"
+    ],
+    "answer": "x = int(input('Enter: '))"
+  },
+  {
+    "question": "নিচের কোনটি ইনপুট নেওয়ার পরে টাইপ পরিবর্তন ছাড়া যোগ করলে ভুল ফলাফল দেবে? (Which of the following gives incorrect output if input is not type-cast?)",
+    "options": [
+      "x = input(); print(x + '5')",
+      "x = input(); print(int(x) + 5)",
+      "x = input(); print(float(x) + 5)",
+      "x = input(); print(eval(x) + 5)"
+    ],
+    "answer": "x = input(); print(x + '5')"
+  },
+  {
+    "question": "print(3 * (2 + 4) // 2 ** 2) এর ফলাফল কী? (What is the output of print(3 * (2 + 4) // 2 ** 2)?)",
+    "options": [
+      "4",
+      "6",
+      "9",
+      "3"
+    ],
+    "answer": "4"
+  }
+]
